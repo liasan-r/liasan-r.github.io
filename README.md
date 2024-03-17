@@ -1,5 +1,4 @@
-innerHTML: "Data Enthusiats"
-innerText: "Data Analyst"
+# Research & Data Analyst
 #### Technical Skills: SPSS, R, Python
 ## Education
 - BA, Statistics | Universitas Padjadjaran (_March 2025_)
