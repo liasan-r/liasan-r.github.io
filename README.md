@@ -1,9 +1,14 @@
 # Data Enthusiats
+#### Technical Skills: SPSS, R, Python
+## Education
+- BA, Statistics | Universitas Padjadjaran (_March 2025_)
 
-### Education
-Statistics, BA
+## Work Experience
+**Research Intern @ PT Summarecon Agung (_January 2024 - Present_)**
+- Conducted market research surveys 
 
-### Work Experience
-Research Intern @ PT XXX
+## Projects
+### Sentiment Analysis
+[Publication](link)
 
-### Projects
+...Write Description
