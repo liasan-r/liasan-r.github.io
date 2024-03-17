@@ -1,14 +1,9 @@
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# Data Enthusiats
 
-Alternatively, for H1 and H2, an underline-ish style:
+### Education
+Statistics, BA
 
-Alt-H1
-======
+### Work Experience
+Research Intern @ PT XXX
 
-Alt-H2
-------
+### Projects
